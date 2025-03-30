@@ -1,6 +1,6 @@
 # Snag Classification Using a Convolutional Neural Network
 ## Team members
-	Stephanie Willsey (StephWill1)
+	Stephanie Willsey (StephWill1) & Michael Oyelakin (moyelaki)
 ## Project description
 The dataset consists of aerial images from the National Aerial Imagery Program (NAIP) over Olympic National Forest. These images are labeled for live trees and snags (standing dead trees) at a meter resolution. The dataset is split into 80% training, 10% testing, and 10% validation sets.
 
